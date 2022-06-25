@@ -7,7 +7,7 @@
 - [Dynamic Programming](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#dynamic-programming)
 - [Binary Search](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#binary-search)
 - [SQL](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#sql)
-- - [Leetcode 75](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#leetcode-75)
+- [Leetcode 75](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#leetcode-75)
 
 # Programming Skills
 
