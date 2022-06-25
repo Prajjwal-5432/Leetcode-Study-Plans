@@ -1,12 +1,12 @@
 # Leetcode Study Plans
 
-- [Programming Skills](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#programming-skills)
-- [Data Structure](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#data-structure)
-- [Algorithm](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#algorithm)
-- [Graph Theory](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#graph-theory)
-- [Dynamic Programming](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#dynamic-programming)
-- [Binary Search](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#binary-search)
-- [SQL](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#sql)
+- [Programming Skills](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/README.mdd#programming-skills)
+- [Data Structure](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/README.md#data-structure)
+- [Algorithm](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/README.md#algorithm)
+- [Graph Theory](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/README.md#graph-theory)
+- [Dynamic Programming](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/README.md#dynamic-programming)
+- [Binary Search](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/README.md#binary-search)
+- [SQL](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/README.md#sql)
 - [Leetcode 75](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/README.md#leetcode-75)
 
 # Programming Skills
